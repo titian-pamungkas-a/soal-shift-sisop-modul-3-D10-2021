@@ -41,7 +41,7 @@ Jika input *, maka semua file pada ekstensi tersebut akan dikategorikan. Caranya
 
 File-file tersebut memiliki nama yang berbeda dengan file biasa. Jika tidak memiliki ekstensi, maka berarti nama file tidak memiliki titik (dot), atau tidak ada string lanjutan setelah titik. Jika file hidden, maka terdapat char (.) pada stringnya, dan letaknya terletak pada yang paling awal. Karena itu, pada fungsi pindah, akan dibedakan mana yang merupakan file tanpa ekstensi, file biasa, dan file hidden.
 
-[WhatsApp Image 2021-05-23 at 20 33 22](https://user-images.githubusercontent.com/77373958/119262809-c3754400-bc06-11eb-85f9-d6fb9db910d7.jpeg)
+![WhatsApp Image 2021-05-23 at 20 33 22](https://user-images.githubusercontent.com/77373958/119262809-c3754400-bc06-11eb-85f9-d6fb9db910d7.jpeg)
 ![WhatsApp Image 2021-05-23 at 20 33 59](https://user-images.githubusercontent.com/77373958/119262811-c40dda80-bc06-11eb-8e7a-85184446aa4d.jpeg)
 
 ### E. Semua dilakukan pada thread
@@ -51,7 +51,7 @@ Pada setiap pemindahan yang dilakukan, akan dilakukan oleh masing-masig thread.
 ![WhatsApp Image 2021-05-23 at 20 29 32](https://user-images.githubusercontent.com/77373958/119262806-c2dcad80-bc06-11eb-94f8-5eed6c5fa329.jpeg)
 
 Kendala yang dialami :
--Anggota yang tidak ambil bagian
--Kurang terbiasa mengakses file dengan C
--Error segmentation fault
--Terkadang error ketika mencoba menggabungkan/memisahkan string
+- Anggota yang tidak ambil bagian
+- Kurang terbiasa mengakses file dengan C
+- Error segmentation fault
+- Terkadang error ketika mencoba menggabungkan/memisahkan string
