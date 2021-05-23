@@ -2,6 +2,18 @@
 
 ## Soal 3
 
+![WhatsApp Image 2021-05-23 at 20 21 17](https://user-images.githubusercontent.com/77373958/119262794-bce6cc80-bc06-11eb-9e35-4f1a3e494bfc.jpeg)
+![WhatsApp Image 2021-05-23 at 20 21 49](https://user-images.githubusercontent.com/77373958/119262796-bfe1bd00-bc06-11eb-8811-caab4a8ad8ac.jpeg)
+![WhatsApp Image 2021-05-23 at 20 22 55](https://user-images.githubusercontent.com/77373958/119262798-c07a5380-bc06-11eb-943d-eb774c18fb82.jpeg)
+![WhatsApp Image 2021-05-23 at 20 23 37](https://user-images.githubusercontent.com/77373958/119262800-c1ab8080-bc06-11eb-9f5d-494dc839dd7c.jpeg)
+![WhatsApp Image 2021-05-23 at 20 27 29](https://user-images.githubusercontent.com/77373958/119262803-c1ab8080-bc06-11eb-9142-c93bfac413d1.jpeg)
+![WhatsApp Image 2021-05-23 at 20 29 32](https://user-images.githubusercontent.com/77373958/119262806-c2dcad80-bc06-11eb-94f8-5eed6c5fa329.jpeg)
+![WhatsApp Image 2021-05-23 at 20 31 34](https://user-images.githubusercontent.com/77373958/119262808-c2dcad80-bc06-11eb-8868-527c25792f85.jpeg)
+![WhatsApp Image 2021-05-23 at 20 33 22](https://user-images.githubusercontent.com/77373958/119262809-c3754400-bc06-11eb-85f9-d6fb9db910d7.jpeg)
+![WhatsApp Image 2021-05-23 at 20 33 59](https://user-images.githubusercontent.com/77373958/119262811-c40dda80-bc06-11eb-8e7a-85184446aa4d.jpeg)
+![Capture](https://user-images.githubusercontent.com/77373958/119262840-e4d63000-bc06-11eb-8e86-6ff8ac17a184.JPG)
+
+
 Pada soal nomer 3, kita membuat program C, yang jika dirun akan mengkategorikan file-file yang ada pada path yang sama dengan program tersebut ke folder-folder sesuai ekstensinya. Semisal program C akan dimasukkan ke path bernama C, dan sebagainya. Dari pokok tersebut, beberapa variasi yang ada seperti :
 
 ### A. Jika diberikan opsi -f, maka dapat input argumen yang berisi file yang akan dikategorikan
